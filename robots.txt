@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ribontia.github.io/sitemap
+Sitemap: https://ribontia.github.io/app/sitemap
+Sitemap: https://ribontia.github.io/assets/sitemap
+Sitemap: https://ribontia.github.io/css/sitemap
+Sitemap: https://ribontia.github.io/includes/sitemap
+Sitemap: https://ribontia.github.io/item/sitemap
+Sitemap: https://ribontia.github.io/src/sitemap
